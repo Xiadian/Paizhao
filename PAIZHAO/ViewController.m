@@ -154,8 +154,8 @@
     [super viewDidDisappear:animated];
     [self.captureSession stopRunning];
 }
-//- (BOOL)prefersStatusBarHidden
-//{
-//    return YES;
-//}
+- (BOOL)prefersStatusBarHidden
+{
+    return YES;
+}
 @end
