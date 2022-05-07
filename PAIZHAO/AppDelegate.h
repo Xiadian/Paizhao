@@ -2,8 +2,8 @@
 //  AppDelegate.h
 //  PAIZHAO
 //
-//  Created by Xuezhipeng on 2017/4/13.
-//  Copyright © 2017年 Xuezhipeng. All rights reserved.
+//  Created by  on 2017/4/13.
+//  Copyright © 2017年 . All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

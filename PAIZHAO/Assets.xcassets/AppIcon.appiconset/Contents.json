@@ -2,49 +2,54 @@
   "images" : [
     {
       "idiom" : "iphone",
-      "size" : "20x20",
-      "scale" : "2x"
+      "scale" : "2x",
+      "size" : "20x20"
     },
     {
       "idiom" : "iphone",
-      "size" : "20x20",
-      "scale" : "3x"
+      "scale" : "3x",
+      "size" : "20x20"
     },
     {
       "idiom" : "iphone",
-      "size" : "29x29",
-      "scale" : "2x"
+      "scale" : "2x",
+      "size" : "29x29"
     },
     {
       "idiom" : "iphone",
-      "size" : "29x29",
-      "scale" : "3x"
+      "scale" : "3x",
+      "size" : "29x29"
     },
     {
       "idiom" : "iphone",
-      "size" : "40x40",
-      "scale" : "2x"
+      "scale" : "2x",
+      "size" : "40x40"
     },
     {
       "idiom" : "iphone",
-      "size" : "40x40",
-      "scale" : "3x"
+      "scale" : "3x",
+      "size" : "40x40"
     },
     {
-      "size" : "60x60",
+      "filename" : "src=http---pic.51yuansu.com-pic3-cover-03-82-97-5c0b4f300bb50_610.jpg&refer=http---pic.51yuansu.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto_副本-1.png",
       "idiom" : "iphone",
-      "filename" : "bike-1.png",
-      "scale" : "2x"
+      "scale" : "2x",
+      "size" : "60x60"
     },
     {
-      "size" : "60x60",
+      "filename" : "src=http---pic.51yuansu.com-pic3-cover-03-82-97-5c0b4f300bb50_610.jpg&refer=http---pic.51yuansu.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto_副本.png",
       "idiom" : "iphone",
-      "filename" : "bike.png",
-      "scale" : "3x"
+      "scale" : "3x",
+      "size" : "60x60"
+    },
+    {
+      "idiom" : "ios-marketing",
+      "scale" : "1x",
+      "size" : "1024x1024"
     }
   ],
   "info" : {
-    "version" : 1,
-    "author" : "xcode"
+    "author" : "xcode",
+    "version" : 1
   }
 }
